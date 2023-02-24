@@ -1,0 +1,5 @@
+./.local : ../model/.local
+./log : ../log/dotdotsym
+./s : src
+./src : dotdotsym
+./x : scripts
